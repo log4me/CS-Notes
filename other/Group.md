@@ -1,1 +1,0 @@
-</br> <div align="center"><img src="https://github.com/CyC2018/CS-Notes/raw/master/other/group1.png" width="300px"></div> </br>
